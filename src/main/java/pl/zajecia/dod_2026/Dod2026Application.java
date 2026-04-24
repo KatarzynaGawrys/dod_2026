@@ -10,4 +10,7 @@ public class Dod2026Application {
         SpringApplication.run(Dod2026Application.class, args);
     }
 
+    public  int added(int a, int b) {
+        return a*b;
+    }
 }
